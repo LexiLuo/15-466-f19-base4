@@ -41,9 +41,10 @@ Load< MeshBuffer > roll_meshes(LoadTagDefault, []() -> MeshBuffer * {
 //Load sphere roll levels:
 Load< std::list< RollLevel > > roll_levels(LoadTagLate, []() -> std::list< RollLevel > * {
 	std::list< RollLevel > *ret = new std::list< RollLevel >();
-	ret->emplace_back(data_path("roll-level-1.scene"));
-	ret->emplace_back(data_path("roll-level-2.scene"));
-	ret->emplace_back(data_path("roll-level-3.scene"));
+	// ret->emplace_back(data_path("roll-level-1.scene"));
+	// ret->emplace_back(data_path("roll-level-2.scene"));
+	// ret->emplace_back(data_path("roll-level-3.scene"));
+	ret->emplace_back(data_path("racing.scene"));
 	return ret;
 });
 

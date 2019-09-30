@@ -1,8 +1,9 @@
-# (TODO: your game's title)
+Vertical Mazz
 
-Author: (TODO: your name)
+Author: Xuechun Luo
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design:
+A vertical mazz where you need to find your own way to reach the destination. No rules for how to reach the destination try jump between different objects 
 
 Screen Shot:
 
@@ -10,7 +11,8 @@ Screen Shot:
 
 How To Play:
 
-(TODO: describe the controls and (if needed) goals/strategy.)
+Use W S A D to control your ball. You can try to find your own way to reach the destination.
+
 
 Sources:
 
